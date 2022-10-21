@@ -1,4 +1,4 @@
 # moonlight
 An HTML single page
 
-Restaurants based website - so called monnlight
+Restaurants based website - so called moonlight
